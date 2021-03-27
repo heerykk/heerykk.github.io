@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WiFi on My New Hugo Site</title>
+    <link>http://example.org/tags/wifi/</link>
+    <description>Recent content in WiFi on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abbott Point of Care</title>
+      <link>http://example.org/project/abbott-point-of-care/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/project/abbott-point-of-care/</guid>
+      <description>Adhoc Wifi consultancy (medical device, Abbott Wireless iStat)</description>
+    </item>
+    
+    <item>
+      <title>Airvana</title>
+      <link>http://example.org/project/airvana/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/project/airvana/</guid>
+      <description>Smart cells</description>
+    </item>
+    
+    <item>
+      <title>Laird Technologies</title>
+      <link>http://example.org/project/laird-technologies/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/project/laird-technologies/</guid>
+      <description>WiFi security</description>
+    </item>
+    
+    <item>
+      <title>Miura Systems</title>
+      <link>http://example.org/project/miura-systems/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/project/miura-systems/</guid>
+      <description>WiFi &amp;amp; Bluetooth payments</description>
+    </item>
+    
+  </channel>
+</rss>
