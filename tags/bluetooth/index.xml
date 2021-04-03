@@ -1,19 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bluetooth on My New Hugo Site</title>
-    <link>http://example.org/tags/bluetooth/</link>
-    <description>Recent content in Bluetooth on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/bluetooth/index.xml" rel="self" type="application/rss+xml" />
+    <title>Bluetooth | Packet Storm</title>
+    <link>/tags/bluetooth/</link>
+      <atom:link href="/tags/bluetooth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bluetooth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Packet Storm Ltd 2011 - 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue860e28d229b7c92bd38ab4efa6da1ea_865_512x512_fill_lanczos_center_2.png</url>
+      <title>Bluetooth</title>
+      <link>/tags/bluetooth/</link>
+    </image>
+    
     <item>
       <title>Miura Systems</title>
-      <link>http://example.org/project/miura-systems/</link>
+      <link>/project/miura-systems/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/project/miura-systems/</guid>
-      <description>WiFi &amp;amp; Bluetooth payments</description>
+      <guid>/project/miura-systems/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;WiFi and Bluetooth connectivity to a payment device. Integrated WiFi and
+bluetooth (classic/BLE) on a Linux system using ltib build system. Implemented
+the system on Realtek RTL8723. Proof of concept on Espressif ESP32.
+&lt;a href=&#34;https://github.com/dsiganos/vhcibridge&#34;&gt;https://github.com/dsiganos/vhcibridge&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;VISA VCAS qualification software
+Python Flask SOAP server implementing the VISA VCAS WSDL interface and
+controlling a contactless credit card payment device via bluetooth.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

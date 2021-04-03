@@ -1,28 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cryptography on My New Hugo Site</title>
-    <link>http://example.org/tags/cryptography/</link>
-    <description>Recent content in Cryptography on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <title>Cryptography | Packet Storm</title>
+    <link>/tags/cryptography/</link>
+      <atom:link href="/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cryptography</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Packet Storm Ltd 2011 - 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue860e28d229b7c92bd38ab4efa6da1ea_865_512x512_fill_lanczos_center_2.png</url>
+      <title>Cryptography</title>
+      <link>/tags/cryptography/</link>
+    </image>
+    
     <item>
       <title>Airvana</title>
-      <link>http://example.org/project/airvana/</link>
+      <link>/project/airvana/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/project/airvana/</guid>
-      <description>Smart cells</description>
+      <guid>/project/airvana/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Mar 2010 – Jun 2010:
+Integrated Strongswan with a smartcard chip (Atmel AT98SC) which acted as an
+HSM. Developed an openssl engine to integrate strongswan (IPsec daemon) with
+the smartcard/HSM drivers.&lt;/li&gt;
+&lt;li&gt;Aug 2009 – Dec 2009:
+IPsec hardware acceleration using iMX51 Sahara. Implemented a Linux kernel
+crypto layer transform that made the Sahara crypto hardware available to the
+linux kernel through the standard linux crypto APIs and thus making it available
+to the IPsec module for offloading the encryption and hashing of IPsec packets.&lt;/li&gt;
+&lt;li&gt;Nov 2008 – Dec 2008: Smartcard development. PKI, RSA, X.509.
+Developed drivers for the Atmel smartcard chip and provisioning tools to
+provision the smartcard with X.509 credentials and secret keys&lt;/li&gt;
+&lt;li&gt;Oct 2008 – Nov 2008: PPPoE integration: uClinux, Blackfin,
+Interpeak.Speakerbus, Hoddesdon and Maidenhead&lt;/li&gt;
+&lt;li&gt;Oct 2007 – Aug 2008:
+Designed, developed and tested a telephony gateway integrating RTP and T1/E1
+based on a custom PowerPC board with a DSP daughtercard and running
+Montavista Linux. Worked on an telephony turret device that supported SIP and
+RTP calls. Wrote a CDR collection and dispatch module for the turret. Wrote a
+CDR forwarding application that run on both Windows and Linux servers.
+Developed multiple network python scripts for automatic testing of the devices.
+Wrote scripts for manufacturing processes and testing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>YouView TV, BBC</title>
-      <link>http://example.org/project/you-view-tv-bbc/</link>
+      <link>/project/you-view-tv-bbc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/project/you-view-tv-bbc/</guid>
-      <description>Youview security features.</description>
+      <guid>/project/you-view-tv-bbc/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Sep 2011 – Mar 2012:
+Openssl, hashing, X.509, linux, testing of Intertrust&amp;rsquo;s Wasabi/Sockeye SDK, C++.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Supported Huawei and Humax&amp;rsquo;s engineers implement Youview security features.&lt;/p&gt;
+&lt;p&gt;Devised a way to off-load the primitive RSA private key signing to an external
+organisation without having to change the way the high level signing worked.&lt;/p&gt;
+&lt;p&gt;Implemented and maintained the X.509 test and development hierarchies.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

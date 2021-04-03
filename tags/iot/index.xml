@@ -1,19 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IoT on My New Hugo Site</title>
-    <link>http://example.org/tags/iot/</link>
-    <description>Recent content in IoT on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <title>IoT | Packet Storm</title>
+    <link>/tags/iot/</link>
+      <atom:link href="/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <description>IoT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Packet Storm Ltd 2011 - 2021</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue860e28d229b7c92bd38ab4efa6da1ea_865_512x512_fill_lanczos_center_2.png</url>
+      <title>IoT</title>
+      <link>/tags/iot/</link>
+    </image>
+    
     <item>
       <title>IoT Cashless Vision</title>
-      <link>http://example.org/project/iot-cashless-vision/</link>
+      <link>/project/iot-cashless-vision/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/project/iot-cashless-vision/</guid>
-      <description>IoT</description>
+      <guid>/project/iot-cashless-vision/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;RS485 to Cloud gateway SW/HW (Flask Python REST API)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

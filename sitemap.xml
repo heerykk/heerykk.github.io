@@ -2,89 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2021-03-27T13:58:47+00:00</lastmod>
+    <loc>/post/howto/</loc>
+    <lastmod>2021-04-03T17:43:30+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2021-03-27T13:58:47+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2021-04-03T17:43:30+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2021-03-27T13:58:47+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2021-04-03T17:43:30+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/dummypost/</loc>
+    <loc>/authors/a-dsiganos/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/dummypost/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/testpost/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>/post/testpost/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://example.org/project/abbott-point-of-care/</loc>
+    <loc>/project/abbott-point-of-care/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/airvana/</loc>
+    <loc>/project/airvana/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/bluetooth/</loc>
+    <loc>/tags/bluetooth/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/cryptography/</loc>
+    <loc>/tags/cryptography/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/embedded/</loc>
+    <loc>/tags/embedded/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/green-energy-options/</loc>
+    <loc>/project/green-energy-options/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/iot/</loc>
+    <loc>/tags/iot/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/iot-cashless-vision/</loc>
+    <loc>/project/iot-cashless-vision/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/laird-technologies/</loc>
+    <loc>/project/laird-technologies/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/linux/</loc>
+    <loc>/tags/linux/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/miura-systems/</loc>
+    <loc>/project/miura-systems/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/wifi/</loc>
+    <loc>/tags/wifi/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/project/you-view-tv-bbc/</loc>
+    <loc>/project/you-view-tv-bbc/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/a-dsiganos/</loc>
+    <loc>/authors/about/</loc>
   </url><url>
-    <loc>http://example.org/authors/about/</loc>
+    <loc>/authors/b-name-surname/</loc>
   </url><url>
-    <loc>http://example.org/authors/b-name-surname/</loc>
+    <loc>/authors/c-kbazoukis/</loc>
   </url><url>
-    <loc>http://example.org/authors/c-kbazoukis/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://example.org/authors/</loc>
+    <loc>/publication_types/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/publication/</loc>
   </url><url>
-    <loc>http://example.org/publication/</loc>
-  </url><url>
-    <loc>http://example.org/talk/</loc>
+    <loc>/talk/</loc>
   </url>
 </urlset>

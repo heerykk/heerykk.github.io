@@ -1,109 +1,170 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 27 Mar 2021 13:58:47 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <title>Packet Storm</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Packet Storm</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Packet Storm Ltd 2011 - 2021</copyright><lastBuildDate>Sat, 03 Apr 2021 17:43:30 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hue860e28d229b7c92bd38ab4efa6da1ea_865_512x512_fill_lanczos_center_2.png</url>
+      <title>Packet Storm</title>
+      <link>/</link>
+    </image>
+    
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sat, 27 Mar 2021 13:58:47 +0000</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <title>How to make a post</title>
+      <link>/post/howto/</link>
+      <pubDate>Sat, 03 Apr 2021 17:43:30 +0100</pubDate>
+      <guid>/post/howto/</guid>
+      <description>&lt;p&gt;test content&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Test post</title>
-      <link>http://example.org/post/testpost/</link>
+      <link>/post/testpost/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/post/testpost/</guid>
-      <description>a one line summary</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>http://example.org/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>http://example.org/privacy/</guid>
-      <description>Add your privacy policy here and set draft: false to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>http://example.org/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      
-      <guid>http://example.org/terms/</guid>
-      <description>Add your terms here and set draft: false to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.</description>
+      <guid>/post/testpost/</guid>
+      <description>&lt;p&gt;This is the post content&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Abbott Point of Care</title>
-      <link>http://example.org/project/abbott-point-of-care/</link>
+      <link>/project/abbott-point-of-care/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/project/abbott-point-of-care/</guid>
-      <description>Adhoc Wifi consultancy (medical device, Abbott Wireless iStat)</description>
+      <guid>/project/abbott-point-of-care/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;2010 - 2016: Adhoc Wifi consultancy (medical device, Abbott Wireless iStat)
+&lt;a href=&#34;https://www.pointofcare.abbott/us/en/offerings/istat/istat-wireless&#34;&gt;https://www.pointofcare.abbott/us/en/offerings/istat/istat-wireless&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nov-Dec 2015: Backported SHA-2 (sha224, sha256, sha384, sha512) support to
+an old openssl library that only supported SHA-1.&lt;/li&gt;
+&lt;li&gt;Jan 2013 - Apr 2013: .Net app debugging and Windows 7 64-bit compatibility.&lt;/li&gt;
+&lt;li&gt;Apr 2012 – Jun 2012:
+Wifi, network protocol (TCP/IP), and, network application troubleshooting.
+Visited hospitals in USA for field debugging - all issues were solved.&lt;/li&gt;
+&lt;li&gt;Feb 2011 – May 2011 and Sep 2010 – Nov 2010:
+WiFi cryptography troubleshooting EAP-TLS, EAP-PEAP, EAP-TTLS, EAPMsCHAPv2.
+Fixed bugs in wpa supplicant, fixed issues with incompatible sets of
+ciphers in older windows, resolved issues regarding incompatible TLS key
+exchange methods (RSA vs Diffie-Hellman key exchange).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Airvana</title>
-      <link>http://example.org/project/airvana/</link>
+      <link>/project/airvana/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/project/airvana/</guid>
-      <description>Smart cells</description>
+      <guid>/project/airvana/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Mar 2010 – Jun 2010:
+Integrated Strongswan with a smartcard chip (Atmel AT98SC) which acted as an
+HSM. Developed an openssl engine to integrate strongswan (IPsec daemon) with
+the smartcard/HSM drivers.&lt;/li&gt;
+&lt;li&gt;Aug 2009 – Dec 2009:
+IPsec hardware acceleration using iMX51 Sahara. Implemented a Linux kernel
+crypto layer transform that made the Sahara crypto hardware available to the
+linux kernel through the standard linux crypto APIs and thus making it available
+to the IPsec module for offloading the encryption and hashing of IPsec packets.&lt;/li&gt;
+&lt;li&gt;Nov 2008 – Dec 2008: Smartcard development. PKI, RSA, X.509.
+Developed drivers for the Atmel smartcard chip and provisioning tools to
+provision the smartcard with X.509 credentials and secret keys&lt;/li&gt;
+&lt;li&gt;Oct 2008 – Nov 2008: PPPoE integration: uClinux, Blackfin,
+Interpeak.Speakerbus, Hoddesdon and Maidenhead&lt;/li&gt;
+&lt;li&gt;Oct 2007 – Aug 2008:
+Designed, developed and tested a telephony gateway integrating RTP and T1/E1
+based on a custom PowerPC board with a DSP daughtercard and running
+Montavista Linux. Worked on an telephony turret device that supported SIP and
+RTP calls. Wrote a CDR collection and dispatch module for the turret. Wrote a
+CDR forwarding application that run on both Windows and Linux servers.
+Developed multiple network python scripts for automatic testing of the devices.
+Wrote scripts for manufacturing processes and testing.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Green Energy Options</title>
-      <link>http://example.org/project/green-energy-options/</link>
+      <link>/project/green-energy-options/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/project/green-energy-options/</guid>
-      <description>Smarter Energy</description>
+      <guid>/project/green-energy-options/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Dec 2010 – Jan 2011: Embedded Linux development. Qt, webkit, C++.&lt;/li&gt;
+&lt;li&gt;Aug 2010: Embedded Linux. Buildroot, bifferboard, networking, multicast.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>IoT Cashless Vision</title>
-      <link>http://example.org/project/iot-cashless-vision/</link>
+      <link>/project/iot-cashless-vision/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/project/iot-cashless-vision/</guid>
-      <description>IoT</description>
+      <guid>/project/iot-cashless-vision/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;RS485 to Cloud gateway SW/HW (Flask Python REST API)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Laird Technologies</title>
-      <link>http://example.org/project/laird-technologies/</link>
+      <link>/project/laird-technologies/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/project/laird-technologies/</guid>
-      <description>WiFi security</description>
+      <guid>/project/laird-technologies/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Aug 2012 – Dec 2013: Wifi, buildroot, linux, wpa_supplicant development.
+I lead the development of a new product establishing the build framework, change
+and release processes, spearheading development and coaching the team.&lt;/li&gt;
+&lt;li&gt;Jan 2010 – Feb 2010:
+Implemented WiFi WPA Enterprise security (EAP, RADIUS, X.509 certificates)
+for a WiFi product that only supported WPA Personal.&lt;/li&gt;
+&lt;li&gt;Dec 2008 – Jul 2009:
+Ported TCP/IP stack to a new platform (uVelocity/ARM Cortex-M3) and
+introduced SSL security and GPRS connectivity (PPP, EAP, AT commands).&lt;/li&gt;
+&lt;li&gt;June 2006 – Oct 2007:
+Integrated the Interpeak TCP/IP stack with Velosity RTOS and in-house scripting
+language. Marvell Wifi 802.11 Linux driver. RS232 and power saving drivers.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Miura Systems</title>
-      <link>http://example.org/project/miura-systems/</link>
+      <link>/project/miura-systems/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/project/miura-systems/</guid>
-      <description>WiFi &amp;amp; Bluetooth payments</description>
+      <guid>/project/miura-systems/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;WiFi and Bluetooth connectivity to a payment device. Integrated WiFi and
+bluetooth (classic/BLE) on a Linux system using ltib build system. Implemented
+the system on Realtek RTL8723. Proof of concept on Espressif ESP32.
+&lt;a href=&#34;https://github.com/dsiganos/vhcibridge&#34;&gt;https://github.com/dsiganos/vhcibridge&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;VISA VCAS qualification software
+Python Flask SOAP server implementing the VISA VCAS WSDL interface and
+controlling a contactless credit card payment device via bluetooth.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>YouView TV, BBC</title>
-      <link>http://example.org/project/you-view-tv-bbc/</link>
+      <link>/project/you-view-tv-bbc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/project/you-view-tv-bbc/</guid>
-      <description>Youview security features.</description>
+      <guid>/project/you-view-tv-bbc/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Sep 2011 – Mar 2012:
+Openssl, hashing, X.509, linux, testing of Intertrust&amp;rsquo;s Wasabi/Sockeye SDK, C++.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Supported Huawei and Humax&amp;rsquo;s engineers implement Youview security features.&lt;/p&gt;
+&lt;p&gt;Devised a way to off-load the primitive RSA private key signing to an external
+organisation without having to change the way the high level signing worked.&lt;/p&gt;
+&lt;p&gt;Implemented and maintained the X.509 test and development hierarchies.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

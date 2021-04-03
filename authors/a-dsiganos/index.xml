@@ -1,10 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/authors/a-dsiganos/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/authors/a-dsiganos/index.xml" rel="self" type="application/rss+xml" />
+    <title>Packet Storm</title>
+    <link>/authors/a-dsiganos/</link>
+      <atom:link href="/authors/a-dsiganos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Packet Storm</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Packet Storm Ltd 2011 - 2021</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hue860e28d229b7c92bd38ab4efa6da1ea_865_512x512_fill_lanczos_center_2.png</url>
+      <title>Packet Storm</title>
+      <link>/authors/a-dsiganos/</link>
+    </image>
+    
+    <item>
+      <title>Test post</title>
+      <link>/post/testpost/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/testpost/</guid>
+      <description>&lt;p&gt;This is the post content&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

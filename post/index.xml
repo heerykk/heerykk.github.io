@@ -1,19 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Packet Storm</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Packet Storm Ltd 2011 - 2021</copyright><lastBuildDate>Sat, 03 Apr 2021 17:43:30 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hue860e28d229b7c92bd38ab4efa6da1ea_865_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>How to make a post</title>
+      <link>/post/howto/</link>
+      <pubDate>Sat, 03 Apr 2021 17:43:30 +0100</pubDate>
+      <guid>/post/howto/</guid>
+      <description>&lt;p&gt;test content&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Test post</title>
-      <link>http://example.org/post/testpost/</link>
+      <link>/post/testpost/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/post/testpost/</guid>
-      <description>a one line summary</description>
+      <guid>/post/testpost/</guid>
+      <description>&lt;p&gt;This is the post content&lt;/p&gt;
+</description>
     </item>
     
   </channel>
