@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Packet Storm</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Packet Storm Ltd 2011 - 2021</copyright><lastBuildDate>Sat, 03 Apr 2021 17:43:30 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Packet Storm Ltd 2011 - 2021</copyright><lastBuildDate>Sat, 03 Apr 2021 18:52:11 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hue860e28d229b7c92bd38ab4efa6da1ea_865_512x512_fill_lanczos_center_2.png</url>
       <title>Packet Storm</title>
@@ -13,11 +13,23 @@
     </image>
     
     <item>
+      <title>Github Pages</title>
+      <link>/post/githubpages/</link>
+      <pubDate>Sat, 03 Apr 2021 18:52:11 +0100</pubDate>
+      <guid>/post/githubpages/</guid>
+      <description>&lt;p&gt;Make a repostory named &amp;ldquo;&lt;username&gt;.github.io&amp;rdquo;
+clone the repoirtoy on to your computer
+from the diretory that has the hugo code run &amp;ldquo;hugo -d &amp;lt;../location of .io repository&amp;gt;&amp;rdquo;
+Then and and push all the files&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How to make a post</title>
       <link>/post/howto/</link>
       <pubDate>Sat, 03 Apr 2021 17:43:30 +0100</pubDate>
       <guid>/post/howto/</guid>
-      <description>&lt;p&gt;test content&lt;/p&gt;
+      <description>&lt;p&gt;In the same repository as the hugo code use the comand &amp;ldquo;hugo new post/&lt;content name&gt;.md&amp;rdquo; then cd content/post and edit the file you just made all content goes below the &amp;ldquo;&amp;mdash;&amp;rdquo; and the parimters are clearly defined&lt;/p&gt;
 </description>
     </item>
     
