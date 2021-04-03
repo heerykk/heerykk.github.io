@@ -17,10 +17,10 @@
       <link>/post/githubpages/</link>
       <pubDate>Sat, 03 Apr 2021 18:52:11 +0100</pubDate>
       <guid>/post/githubpages/</guid>
-      <description>&lt;p&gt;Make a repostory named &amp;ldquo;&lt;username&gt;.github.io&amp;rdquo;
-clone the repoirtoy on to your computer
-from the diretory that has the hugo code run &amp;ldquo;hugo -d &amp;lt;../location of .io repository&amp;gt;&amp;rdquo;
-Then and and push all the files&lt;/p&gt;
+      <description>&lt;/p&gt;Make a repostory named &#34;username.github.io&#34;&lt;/p&gt;
+&lt;/p&gt;clone the repoirtoy on to your computer &lt;/p&gt;
+&lt;/p&gt;from the diretory that has the hugo code run &#34;hugo -d &lt;../location of .io repository&gt;&#34;&lt;/p&gt;
+&lt;/p&gt;Then and and push all the files&lt;/p&gt;
 </description>
     </item>
     
@@ -29,7 +29,9 @@ Then and and push all the files&lt;/p&gt;
       <link>/post/howto/</link>
       <pubDate>Sat, 03 Apr 2021 17:43:30 +0100</pubDate>
       <guid>/post/howto/</guid>
-      <description>&lt;p&gt;In the same repository as the hugo code use the comand &amp;ldquo;hugo new post/&lt;content name&gt;.md&amp;rdquo; then cd content/post and edit the file you just made all content goes below the &amp;ldquo;&amp;mdash;&amp;rdquo; and the parimters are clearly defined&lt;/p&gt;
+      <description>&lt;/p&gt;In the same repository as the hugo code use the comand &#34;hugo new post/content name.md&#34;&lt;/p&gt;
+&lt;/p&gt;Then cd content/post and edit* the file you just made all content goes below the &#34;---&#34; and the parimters are clearly defined&lt;/p&gt;
+&lt;/p&gt;*note test to be displayed is formated via markdown&lt;/p&gt;
 </description>
     </item>
     
